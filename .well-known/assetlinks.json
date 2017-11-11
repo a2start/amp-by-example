@@ -1,6 +1,9 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.ampbyexample.android.aia.hello.amp",
-               "sha256_cert_fingerprints": ["AD:AB:39:FC:6B:1B:97:98:66:16:A4:F8:8A:00:90:C1:5E:C6:B0:13:67:19:66:D7:AC:16:38:1D:86:48:B9:AB"] }
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.androidwebviewapp.isalmicpalace",
+    "sha256_cert_fingerprints":
+    ["3B:16:19:12:85:31:A3:F6:7A:0D:40:47:4B:66:3A:5A:FC:1A:A2:38:F6:F4:69:BD:A4:BC:ED:D2:39:9B:40:90"]
+  }
 }]
-
